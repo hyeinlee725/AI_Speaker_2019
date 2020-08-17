@@ -2,11 +2,12 @@
 
 ## Solution
 ### 솔루션 제공 알고리즘
-double today_t ;         오늘의 온도
-double today_h ;        오늘의 습도
-double find_dust ;      미세먼지 수치
-double t ;                 현재 온도
-double h;                 현재 습도
+
+double today_t ;         #오늘의 온도
+double today_h ;         #오늘의 습도
+double find_dust ;       #미세먼지 수치
+double t ;               #현재 온도
+double h;                #현재 습도
 if season == 여름 
     if today_t - t = 8 
         print(현재 밖과의 온도차가 매우 큽니다. )
