@@ -3,6 +3,7 @@
 ## Solution
 ### 솔루션 제공 알고리즘
 
+~~~
 double today_t ;         #오늘의 온도
 double today_h ;         #오늘의 습도
 double find_dust ;       #미세먼지 수치
@@ -102,3 +103,4 @@ else
         습도를 올리는 솔루션 제공
       else
         print(현재 온도와 습도가 모두 쾌적한 상태 입니다.)
+~~~
